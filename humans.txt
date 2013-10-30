@@ -1,0 +1,33 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Project Manager: Jennifer Yates
+  Location: Longview, Texas
+
+  Project Manager: Jackie Lindsey
+  Location: Longview, TX
+
+  Web Development Director: Johnny Martin
+  Site: johnny5th.com
+  Twitter: johnny5th
+  Location: Lindale, TX
+
+  Senior Web Developer: Chadsten Lowery
+  Site: chadsten.com
+  Twitter: chadsten
+  Location: San Antonio, TX
+
+  Senior Graphic Designer: Nic Trent
+  Twitter: nictrent
+  Site: nictrent.com
+
+  Graphic Designer: Kimberlin Boyd
+  Location: Longview, TX 
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+
