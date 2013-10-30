@@ -32,4 +32,4 @@
     jQuery, Modernizr
     SASS, Compass
     PHP, Drupal 7
-    Varnish, LAMP
+    Varnish, MySQL
