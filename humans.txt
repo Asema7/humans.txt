@@ -30,4 +30,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-
+    SASS, Compass
+    PHP, Drupal 7
+    Varnish, LAMP
